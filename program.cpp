@@ -3,7 +3,7 @@
 using namespace std;
 
 void printMyName () {
-	cout<<"Antonio Avramovic"<<endl;
+	//cout<<"Antonio Avramovic"<<endl;
 }
 
 void printMyIndex () {
@@ -11,6 +11,6 @@ void printMyIndex () {
 }
 
 int main () {
-	printMyName();
+	//printMyName();
 	printMyIndex();
 }
