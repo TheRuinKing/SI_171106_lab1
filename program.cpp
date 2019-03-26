@@ -7,10 +7,9 @@ void printMyName () {
 }
 
 void printMyIndex () {
-	//cout<<"171106"<<endl;
+
 }
 
 int main () {
 	printMyName();
-	//printMyIndex();
 }
